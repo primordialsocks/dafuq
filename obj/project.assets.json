@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lily/Development/lily/lily.csproj",
+      "projectUniqueName": "/home/lily/Development/dafuq/lily.csproj",
       "projectName": "lily",
-      "projectPath": "/home/lily/Development/lily/lily.csproj",
+      "projectPath": "/home/lily/Development/dafuq/lily.csproj",
       "packagesPath": "/home/lily/.nuget/packages/",
-      "outputPath": "/home/lily/Development/lily/obj/",
+      "outputPath": "/home/lily/Development/dafuq/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
